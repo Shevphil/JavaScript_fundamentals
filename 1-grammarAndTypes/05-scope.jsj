@@ -1,0 +1,10 @@
+let myName ="Sheena";
+
+function someProcess() {
+    const myName = "X-AESH-12";
+    console.log(myName);
+}
+
+console.log(myName);
+
+// console.log (myName)
